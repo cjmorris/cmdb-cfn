@@ -1,0 +1,1 @@
+Cloud Formation template for AWS CMDB stack
